@@ -1,2 +1,2 @@
 # Comunicacion-Tareas-Gratis
-Tareas del Área de Comunicación Secundarua
+Tareas del Área de Comunicación Secundaria
